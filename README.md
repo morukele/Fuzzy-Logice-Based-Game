@@ -8,4 +8,5 @@ The python file takes in input form the user for the ammo and health level and g
 
 The user also has the option of selecting between summation or max aggregator and also between a center of gravity or mean of maximum defuzzification. 
 
-The Fuzzy Logic Engine code is found in FuzzyLogicGameEngine.py while the FuzzyLogicGamePlotCode.py file contains code that created a 3D plot of the overview of the system behaviour
+The Fuzzy Logic Engine code is found in FuzzyLogicGameEngine.py while the FuzzyLogicGamePlotCode.py file contains code that created a 3D plot of the overview of the system behaviour as shown below: 
+![3D plot of the fuzzy logic system behaviour](https://github.com/morukele/Fuzzy-Logice-Based-Game/blob/main/3D%20Surface%20Plot.png)
